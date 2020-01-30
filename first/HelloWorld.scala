@@ -1,6 +1,4 @@
-object HelloWorld {
-    def main(args: Array[String]) {
-      println("Hello, world! " + args.toList)
-    }
+object HelloWorld extends App {
+      println("Hello, world!")
   }
 
